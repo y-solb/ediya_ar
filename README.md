@@ -1,4 +1,4 @@
-# ediya_ar
+# cafe_ar
 
 ### - Video is played when shooting a poster.
 
@@ -12,3 +12,7 @@
 ### - Shows the bread menu when the button is clicked.
 
 ![ar4_ed](./img/ar4_ed.png)
+
+### - I animated the character in miaximo.
+
+![ar5_ed](./img/ar5_ed.png)
